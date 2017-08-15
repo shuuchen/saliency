@@ -39,3 +39,6 @@ python saliency.py --inputDir [input_dir] --outputDir [output_dir] --markMaxima
 
 ## Thanks
 * https://gist.github.com/tatome/d491c8b1ec5ed8d4744c
+
+## License
+* Released under the MIT license. See LICENSE for details.
