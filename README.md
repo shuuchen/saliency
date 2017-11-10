@@ -30,6 +30,9 @@ python saliency.py --inputDir [input_dir] --outputDir [output_dir]
 ```python
 python saliency.py --inputDir [input_dir] --outputDir [output_dir] --markMaxima
 ```
+* Some recommendations for parameter tuning
+  * Image size
+
 <p>
   <img src="https://github.com/shuuchen/saliency/blob/master/data/quad_video0_0_saliency_maxima.jpg" height="216" width="396" />
 </p>
